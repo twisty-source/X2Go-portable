@@ -1,0 +1,20 @@
+# Ignore session configurations and generated user data
+**/.x2go/
+**/.x2goclient/
+**/data/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+*.7z
+*.tar.gz
+*.AppImage
